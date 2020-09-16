@@ -34,8 +34,8 @@ const submitForm = () => {
     email: formValues.email.trim(),
     role: formValues.role
   }
-  
-  // if (!newUser.username || !newUser.email || !newUse.role) {
+  //should be newMember
+  // if (!newUser.username || !newUser.email || !newUser.role) {
   //   return
   // }
 
